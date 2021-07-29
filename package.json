@@ -15,7 +15,10 @@
     "express": "^4.17.1",
     "my": "^0.3.3",
     "mysql": "^2.18.1",
-    "sql": "^0.78.0"
+    "path": "^0.12.7",
+    "sequelize": "^6.6.5",
+    "sql": "^0.78.0",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
